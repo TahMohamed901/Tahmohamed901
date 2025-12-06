@@ -21,4 +21,4 @@
 
 Explore my projects, prototypes, and case studies:
 
-[![Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mtah.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://motah.vercel.app)
